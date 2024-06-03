@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch13;
+package gr.aueb.cf.ch13.model;
 
 import java.util.Arrays;
 
